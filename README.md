@@ -1,8 +1,8 @@
 # React Fundamentals
 
-#### React Course
+Repo for Learning Purposes
 
-Project Code from - [React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+Project Code from - [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF) on Udemy
 
 ## Notes from Course Instructor
 
